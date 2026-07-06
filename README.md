@@ -111,15 +111,7 @@ git clone https://github.com/kishanverma113/Microsoft-Stock-PowerBI-Dashboard.gi
 
 > Add a screenshot of your dashboard here after uploading the project to GitHub.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/8f374c93-a826-4661-835c-33d5c39ff792"
-       alt="Microsoft Stock Analysis Dashboard"
-       width="1000">
-</p>
-
-<p align="center">
-  <b>Interactive Microsoft Stock Analysis Dashboard built using Power BI</b>
-</p>
+<img width="1292" height="735" alt="Microsoft Image" src="https://github.com/user-attachments/assets/60d6a863-c13d-439e-bd4e-2c7099c4fdfc" />
 
 
 
