@@ -107,12 +107,21 @@ git clone https://github.com/kishanverma113/Microsoft-Stock-PowerBI-Dashboard.gi
 
 ---
 
-# 📷 Dashboard Preview
+# 📊 Dashboard Preview
 
-> Add a screenshot of your dashboard here after uploading the project to GitHub.
+<div align="center">
 
-<img width="1292" height="735" alt="Microsoft Image" src="https://github.com/user-attachments/assets/60d6a863-c13d-439e-bd4e-2c7099c4fdfc" />
+<img src="https://github.com/user-attachments/assets/60d6a863-c13d-439e-bd4e-2c7099c4fdfc"
+alt="Microsoft Stock Analysis Dashboard"
+width="1000"/>
 
+<br><br>
+
+**Microsoft Stock Analysis Dashboard**
+
+*Built with Power BI to analyze historical stock performance using interactive KPIs, price trends, trading volume analysis, and business intelligence visualizations.*
+
+</div>
 
 
 ```
