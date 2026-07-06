@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project presents an interactive **Microsoft (MSFT) Stock Market Dashboard** built in **Power BI**. The dashboard analyzes historical stock price data and provides insights into price movement, trading volume, market trends, and overall stock performance using interactive visualizations.
+This project presents an interactive **Microsoft (MSFT) Stock Market Dashboard** built in **Power BI**. The dashboard analyzes historical stock price data and provides insights into price movement, trading volume, market trends, and overall stock performance using interactive visualizations. 
 
 The objective of this project is to transform raw stock market data into meaningful business insights that help users understand historical trends and make data-driven observations.
 
